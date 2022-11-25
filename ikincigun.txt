@@ -1,1 +1,2 @@
 Git gitup ikincigun ikinci ders
+Git gitup ikincigun ikinci ders ikinci deneme
