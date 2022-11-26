@@ -1,4 +1,4 @@
 Git gitup ikincigun ikinci ders
 Git gitup ikincigun ikinci ders ikinci deneme
-Git gitup ikincigun ikinci ders
-Git gitup ikincigun ikinci ders ikinci deneme SERKAN BRANC DENEME
+05:59 26.11.202205:59 26.11.2022
+Git gitup ikincigun ikinci ders ikinci deneme Master
